@@ -77,7 +77,6 @@ features = [
 	"runtime-tokio-rustls",
 	"macros",
 	"sqlx-postgres",
-	"sqlx-sqlite",
 	"debug-print",
 ]
 
